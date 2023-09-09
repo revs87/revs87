@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/revs87/revs87/assets/556860/1223f4b2-aed8-4334-bdaa-5a82992122d9" width="200">
+<img src="https://github.com/revs87/revs87/assets/556860/1223f4b2-aed8-4334-bdaa-5a82992122d9" width="150">
 
 ![](https://komarev.com/ghpvc/?username=revs87&style=for-the-badge)
 
